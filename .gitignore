@@ -1,0 +1,23 @@
+ # Archivos temporales y de registro
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración de editores e IDE
+.vscode/
+.idea/
+
+# Archivos compilados y carpetas de salida
+*.class
+*.o
+*.exe
+bin/
+obj/
+build/
+dist/
