@@ -29,3 +29,7 @@ En Linux o macOS:
 ```
 
 Los ejecutables y archivos de compilación se excluyen del repositorio mediante `.gitignore`.
+
+subir  a consola
+git commit -m "Corrige salida de Hola Mundo"           
+git push
